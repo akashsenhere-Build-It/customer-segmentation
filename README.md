@@ -36,9 +36,9 @@ The framework was built with reproducibility and non-technical stakeholder commu
 
 | Member | Role |
 |--------|------|
-| **[Your Name]** | Product Lead — scope definition, milestone planning, dev task allocation, architecture docs, final presentation |
-| Team Member 2 | ML Engineer — model implementation, hyperparameter tuning, comparative analysis |
-| Team Member 3 | Data Engineer — preprocessing pipeline, validation suite, dataset management |
+| **Akash Sen** | Product Lead — scope definition, milestone planning, dev task allocation, architecture docs, final presentation |
+| Team Member 2 |  — model implementation, hyperparameter tuning, comparative analysis |
+| Team Member 3 |  — preprocessing pipeline, validation suite, dataset management |
 
 ---
 
