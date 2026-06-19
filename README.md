@@ -163,7 +163,7 @@ customer-segmentation/
 ### Installation
 
 ```bash
-git clone https://github.com/akashsenhere-buil-it/customer-segmentation.git
+git clone https://github.com/akashsenhere-build-it/customer-segmentation.git
 cd customer-segmentation
 pip install -r requirements.txt
 ```
